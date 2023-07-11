@@ -1,0 +1,11 @@
+.container{
+    background-color:lightgoldenrodyellow;
+    height: -500px;
+    width: 600px;
+}
+input[type=number]{
+    background-color: azure;
+}
+button[type=button]{
+    background-color: aqua;
+}
